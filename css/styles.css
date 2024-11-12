@@ -4,7 +4,7 @@ body {
     background-color: #FFFFFF;
     color: #3d5170;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     padding: 20px;
     
     display:flex;
@@ -14,12 +14,12 @@ body {
 
 .heading {
     font-family: "share tech";
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight:bold;
 }
 
 .sub-heading {
-    font-size: 16px;
+    font-size: 1rem;
     letter-spacing: 8px;
     font-weight: 600;
     color: #6f7276;
@@ -43,7 +43,7 @@ figure {
 }
 
 figcaption {
-    font-size:13px;
+    font-size:0.8rem;
     font-weight: 900;
     color: #6f7276;
     padding-top:3px;
